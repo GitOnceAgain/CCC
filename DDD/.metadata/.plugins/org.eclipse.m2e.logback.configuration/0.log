@@ -51,3 +51,13 @@
 2024-09-04 15:06:38,817 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProject\src\main\resources
 2024-09-04 15:06:38,822 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2024-09-04 15:06:38,824 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProject\src\test\resources
+2024-09-04 16:08:32,773 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-04 16:08:47,817 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GitProject:GitProject:0.0.1-SNAPSHOT @ C:\Users\SUNIL\CCC\DDD\GitProject\pom.xml.
+2024-09-04 16:08:55,121 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 16:08:55,168 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\CCC\DDD\GitProject\src\main\resources
+2024-09-04 16:08:55,172 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 16:08:55,178 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\CCC\DDD\GitProject\src\test\resources
+2024-09-04 16:12:46,813 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 16:12:46,876 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\CCC\DDD\GitProject\src\main\resources
+2024-09-04 16:12:46,879 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 16:12:46,885 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\CCC\DDD\GitProject\src\test\resources
